@@ -12,9 +12,9 @@
 - 👯 I’m looking to collaborate on **open-source projects**.
 - 🤔 I’m looking for help with **learning advanced backend**.
 - 💬 Ask me about **anything tech-related!**.
-- 📫 How to reach me: **your-email@example.com**.
+- 📫 How to reach me: **panhisyopi@gmail.com**.
 - 😄 Pronouns: **He/Him**.
-- ⚡ Fun fact: **I love coffee and late-night coding ☕🌙.**
+- ⚡ Fun fact: **Fall as sleep with coffe☕🌙.**
 
 ---
 
