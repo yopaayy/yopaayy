@@ -41,8 +41,8 @@
 
 ### 📫 Let's Connect!
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="[https://www.tiktok.com/@yovoyeg143]" target="_blank">
+     <img src="/assets/img/social-tiktok.svg" alt="Tiktok Icon">
   </a>
   <a href="mailto:your-email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
