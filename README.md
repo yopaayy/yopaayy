@@ -41,7 +41,7 @@
 
 ### 📫 Let's Connect!
 <div align="center">
-  <a href="https://www.tiktok.com/@yovoyeg143" target="_blank">
+  <a href="https://www.tiktok.com/@whavetoearth" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://www.instagram.com/yopaayy/" target="_blank">
